@@ -1,2 +1,2 @@
-# fluorometer-driver
+# Fluorometer Driver
 PASCO Fluorometer Driver
